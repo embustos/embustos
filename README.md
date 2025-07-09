@@ -1,5 +1,10 @@
-## Hi there 👋
+## Emiliano Bustos
 
+-  Junior at Univeristy of California, Santa Cruz
+-  Major: Computer Science
+-  I'm looking forward to connect with people within the tech industry
+-  Actively looking for summer 2026 internships
+-  Interests: sports, tech, gym, video games
 <!--
 **embustos/embustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
